@@ -1,1 +1,1 @@
-# bursting-neurons
+# bursting-neuron
